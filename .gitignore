@@ -1,0 +1,8 @@
+Inventory_db
+.ipynb_checkpoints/
+__pycache__/
+logs/
+data/
+*.txt
+*.pptx
+*.zip
